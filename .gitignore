@@ -61,3 +61,10 @@ outputs/
 
 # Local-only release tooling
 scripts/release.sh
+
+# PRIVATE PROPRIETARY INDICATOR CODE
+# Never commit the original TradingView/Pine source to this public repo.
+private_pine/
+*.pine
+*.pinescript
+pine_private/
